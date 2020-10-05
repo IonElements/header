@@ -1,0 +1,24 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonElements/header.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonElements/header/issues"
+  },
+  "homepage": "https://github.com/IonElements/header#readme",
+  "dependencies": {
+    "@vandeurenglenn/flex-elements": "^0.1.0",
+    "define-custom-element": "^1.0.2"
+  }
+}
